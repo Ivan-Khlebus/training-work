@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+body {
+    background-color: #0CBBC7;
+    position: relative;
+    width: 2030px;
+    height: 1133px;;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+/*квадрат*/
+#square {
+    position: absolute;
+width: 1440px;
+height: 800px;
+left: 295px;
+top: 166px;
+background-color: #EDFEFF;
+background-image: url(../style/image\ 39.png);
+}
+/*1 список*/
+.verx {
+    list-style-type: none;
+    padding-right: 50px;
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+}
+    
+.verh{
+    display: flex;
+}
+.per {
+    margin-left: 110px;
+    margin-top: 30px;
+}
+/*центравинки*/
+.circ {
+    position: absolute;
+width: 61.76px;
+height: 25px;
+left: 704.88px;
+top: 27px;
+}
+.circule {
+    position: absolute;
+width: 30.29px;
+height: 29.41px;
+left: 670.47px;
+top: 24.94px;
+}
+/*2 список*/
+.rv {
+    list-style-type: none;
+    padding-right: 50px;
+    font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+
+}
+.rvs {
+    display: flex;
+}
+.rs {
+    position: absolute;
+width: 66px;
+height: 18px;
+left: 835px;
+top: 12px;
+}
+/*button*/
+.log {
+    
+ display: block;
+ color: #0CBBC7;width: 38px;
+ height: 18px;
+ 
+ font-family: 'Plus Jakarta Sans';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 14px;
+ line-height: 18px;
+}
+.login {
+    margin-left: 1130px;
+    margin-top:-35px ;
+}
+.btn{
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #0CBBC7;
+    padding: 10px 60px;
+    color: #0CBBC7 ;
+    width: 38px;
+height: 18px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-decoration: none;
+margin-top: -13px;
+margin-left: -50px;
+}
+/*main*/
+
+
+.tex {
+    position: absolute;
+width: 779px;
+height: 110px;
+left: 331px;
+top: 100px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 44px;
+line-height: 55px;
+text-align: center;
+}
+.text {
+    position: absolute;
+width: 447px;
+height: 44px;
+left: 497px;
+top: 250px;
+
+color: #878787;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+text-align: center;
+}
+/*button2*/
+.getbtn {
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #0CBBC7;
+    background-color: #0CBBC7;
+    padding: 14px 20px;
+    color: #fff ;
+    text-decoration: none;
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.01em;
+}
+.gbt {
+    position: absolute;
+width: 188px;
+height: 48px;
+left: 626px;
+top: 330px;
+}
+/*люди*/
+.ludi {
+    position: absolute;
+width: 700px;
+height: 400px;
+left: 255px;
+top: 308px;
+}
+/*ovali*/
+#oval1 {
+    width: 150px;
+    height: 350px;
+    
+    border-radius: 60px;
+   
+position: absolute;
+left: 640px;
+top: 450px;
+}
+#oval2 {
+    width: 125px;
+    height: 250px;
+   
+    border-radius: 60px;
+    position: absolute;
+left: 515px;
+top: 500px;
+} 
+
+#oval3 {
+    width: 125px;
+    height: 250px;
+   
+    border-radius: 60px;
+    position: absolute;
+left: 790px;
+top: 500px;
+} 
+
+#oval4 {
+    width: 100px;
+    height: 175px;
+    
+    border-radius: 60px;
+    position: absolute;
+    left: 420px;
+    top: 540px;
+}
+
+#oval5 {
+    width: 100px;
+    height: 175px;
+ 
+    border-radius: 60px;
+    position: absolute;
+    left: 910px;
+top: 540px;
+}
+
+
+/*фон*/
+.ludishki {
+    position: absolute;
+width: 964px;
+height: 361px;
+left: 238px;
+top: 440px;
+
+}
